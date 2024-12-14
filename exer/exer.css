@@ -1,0 +1,44 @@
+
+/**
+
+img{
+    width: 500px;
+    margin-left: 100px;
+}
+
+.img1{
+    border-radius: 20px;
+    box-shadow: 10px 5px 5px purple;
+    margin-top: 100px;
+
+}
+
+.img2{
+    border: 7px solid salmon;
+    box-shadow: 10px 5px 5px pink ;
+}
+
+.img3{
+    border-radius: 350px;
+    box-shadow: 10px 5px 5px purple;
+    margin-bottom: -450px;
+    margin-left: -400px;
+}
+
+.img4{
+    border-radius: 20px;
+    box-shadow: 10px 5px 5px pink ;
+    margin-top: 100px;
+    
+}
+
+
+.img5{
+    border-radius: 20px;
+    box-shadow: 10px 5px 5px purple;
+    z-index: 1;
+    margin-top: -150px;
+    margin-left: -150px;
+    position: absolute;
+}
+
